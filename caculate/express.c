@@ -140,14 +140,6 @@ void HandleOperator(LinkStack *OpdStack, LinkStack *OptStack, char opt)
             {
                 //计算部分
                 CalculatePart(OpdStack, opt_top);
-                //不能实现
-                //while(!StackEmpty(*OptStack))
-                //{
-                //CalculatePart(OpdStack, opt_top);               
-
-                //}
-
-                //Push(OptStack, opt);
             }
 
         }
