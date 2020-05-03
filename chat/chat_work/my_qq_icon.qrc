@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/caculate.gif</file>
+        <file>image/man.gif</file>
+        <file>image/movie.gif</file>
+        <file>image/off_line.gif</file>
+        <file>image/off_lock_ps.gif</file>
+        <file>image/on_line.gif</file>
+        <file>image/on_lock_ps.gif</file>
+        <file>image/qq_up.gif</file>
+        <file>image/man.png</file>
+        <file>image/erweima.gif</file>
+        <file>image/caculenew.gif</file>
+        <file>image/erweima.png</file>
+        <file>image/1002194.jpg</file>
+        <file>image/1002023.jpg</file>
+        <file>image/combox2.png</file>
+        <file>image/comboxup.png</file>
+        <file>user_space/time.ico</file>
+    </qresource>
+</RCC>

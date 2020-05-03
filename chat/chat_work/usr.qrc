@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>user_space/email.gif</file>
+        <file>user_space/man.gif</file>
+        <file>user_space/pifu.gif</file>
+        <file>user_space/search.gif</file>
+        <file>user_space/wallet.gif</file>
+        <file>user_space/wether.gif</file>
+        <file>user_space/women.gif</file>
+        <file>user_space/zone.gif</file>
+        <file>user_space/closepic.png</file>
+        <file>user_space/minpic.png</file>
+        <file>user_space/man.png</file>
+        <file>user_space/women.png</file>
+        <file>user_space/chat.ico</file>
+        <file>user_space/cut.ico</file>
+        <file>user_space/face.ico</file>
+        <file>user_space/folder.ico</file>
+        <file>user_space/picture.ico</file>
+        <file>user_space/shake.ico</file>
+        <file>user_space/video.ico</file>
+        <file>user_space/man11.ico</file>
+        <file>user_space/man22.ico</file>
+        <file>user_space/man33.ico</file>
+        <file>user_space/women.ico</file>
+        <file>user_space/pifu.ico</file>
+        <file>user_space/wallet.ico</file>
+        <file>user_space/wether.ico</file>
+        <file>user_space/zone.ico</file>
+        <file>user_space/walk.ico</file>
+        <file>user_space/walk.jpg</file>
+        <file>user_space/dress.ico</file>
+        <file>user_space/email_32px_1232375_easyicon.net.ico</file>
+        <file>user_space/money_bag_32px_1241094_easyicon.net.ico</file>
+        <file>user_space/Qq.ico</file>
+        <file>user_space/serach.ico</file>
+        <file>user_space/tianqi.ico</file>
+        <file>user_space/women3.ico</file>
+        <file>user_space/women4.ico</file>
+    </qresource>
+</RCC>

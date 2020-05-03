@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\regist.o
+./debug\userspace.o
+./debug\login.o
+./debug\chat_windows.o
+./debug\find_psd.o
+./debug\qrc_my_qq_icon.o
+./debug\qrc_usr.o
+./debug\moc_widget.o
+./debug\moc_regist.o
+./debug\moc_userspace.o
+./debug\moc_login.o
+./debug\moc_chat_windows.o
+./debug\moc_find_psd.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\regist.o
+./release\userspace.o
+./release\login.o
+./release\chat_windows.o
+./release\find_psd.o
+./release\qrc_my_qq_icon.o
+./release\qrc_usr.o
+./release\moc_widget.o
+./release\moc_regist.o
+./release\moc_userspace.o
+./release\moc_login.o
+./release\moc_chat_windows.o
+./release\moc_find_psd.o
+);

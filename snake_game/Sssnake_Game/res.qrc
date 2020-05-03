@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/apple.jfif</file>
+        <file>img/apple.jpg</file>
+        <file>img/apple3.jpg</file>
+        <file>img/background.jpg</file>
+        <file>img/ganmewidget.jpg</file>
+        <file>img/ganmewidget.png</file>
+        <file>img/label_backgrround.gif</file>
+        <file>img/title.jpg</file>
+        <file>img/title2.jpg</file>
+    </qresource>
+</RCC>
